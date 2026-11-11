@@ -1,0 +1,63 @@
+# =========================
+# AI Provider SDKs
+# =========================
+openai
+groq
+google-genai
+mistralai
+
+# =========================
+# LangChain
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain_huggingface
+
+# LangChain Provider Integrations
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-mistralai
+
+# =========================
+# FastAPI
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# HTTP Clients
+# =========================
+requests
+httpx
+aiohttp
+
+# =========================
+# Data Validation
+# =========================
+pydantic
+
+# =========================
+# Tokenization
+# =========================
+tiktoken
+
+# =========================
+# Data Processing
+# =========================
+numpy
+pandas
+
+# =========================
+# Utilities
+# =========================
+rich
+tqdm
+tenacity
+orjson
